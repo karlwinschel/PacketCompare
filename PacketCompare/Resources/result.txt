@@ -1,0 +1,544 @@
+om  2
+"/><field fieldname="Claim 9
+tali 42
+ation 47
+ Date  52
+om  60
+"/><field fieldname="Claim 67
+tali 100
+ation 105
+ Date  110
+om  118
+"/><field fieldname="Claim 127
+tali 160
+ation 165
+ Date To 170
+"/><field fieldname="Claim 183
+tali 216
+ation 221
+ Date To 226
+"/><field fieldname="Claim 239
+tali 272
+ation 277
+ Date To 282
+"/><field fieldname="Claim 297
+ Medi 324
+ Res 333
+sion 342
+ode"/><field fieldname="Claim 348
+ Medi 378
+ Res 387
+sion 396
+ Ref 405
+ Number 409
+"/><field fieldname="Claim 416
+: D 442
+s C 452
+ode 1  455
+ Le 460
+"/><field fieldname="Claim 465
+: D 491
+s C 501
+ode 1  504
+"/><field fieldname="Claim 515
+: D 541
+s C 551
+ode 2  554
+ Le 559
+"/><field fieldname="Claim 564
+: D 590
+s C 600
+ode 2  603
+"/><field fieldname="Claim 614
+: D 640
+s C 650
+ode 3  653
+ Le 658
+"/><field fieldname="Claim 663
+: D 689
+s C 699
+ode 3  702
+"/><field fieldname="Claim 713
+: D 739
+s C 749
+ode 4  752
+ Le 757
+"/><field fieldname="Claim 762
+: D 788
+s C 798
+ode 4  801
+"/><field fieldname="Claim 812
+ate Date"/><field fieldname="Other  843
+ In 877
+ured 881
+" ruleid="2 892
+8" ruletype="W"/><field fieldname="Other  903
+ In 943
+ured 947
+D" ruleid="2 957
+29" ruletype="W"/><field fieldname="Other  968
+ In 1009
+ured 1013
+" ruleid="3 1026
+30" ruletype="W"/><field fieldname="Other  1036
+ In 1077
+ured 1081
+d Ma 1084
+le  1088
+" ruleid="3 1095
+31" ruletype="W"/><field fieldname="Other  1105
+ In 1146
+ured 1150
+le  1159
+" ruleid="32" ruletype="W"/><field fieldname=" 1166
+mpl 1213
+ment  1218
+ Re 1222
+elate 1224
+ Yes X" ruleid="33" ruletype="W"/><field fieldname=" 1230
+mpl 1283
+ment  1288
+ Re 1292
+elate 1294
+ No X" ruleid="3 1300
+34" ruletype="W"/><field fieldname="A 1315
+uto 1352
+ide 1359
+ent  1361
+ Yes X" ruleid="35 1364
+5" ruletype="W"/><field fieldname="A 1381
+uto 1417
+ide 1424
+ent No X" ruleid="3 1426
+6" ruletype="W"/><field fieldname="Claim 1445
+uto 1488
+ide 1495
+ent  1497
+ State"/><field fieldname="Other  1500
+ide 1536
+ent  1538
+ Yes X" ruleid="3 1541
+37" ruletype="W"/><field fieldname="Other  1557
+ide 1602
+ent No X" ruleid="3 1604
+8" ruletype="W"/><field fieldname="10 1623
+d Medi 1660
+d Policy Number 1669
+r" ruleid="3 1683
+9" ruletype="W"/><field fieldname=" 1695
+ured 1733
+roup 1739
+ Number  1743
+" ruleid=" 1753
+0" ruletype="W"/><field fieldname=" 1764
+ured 1802
+" ruleid=" 1816
+1" ruletype="W"/><field fieldname=" 1827
+ured 1865
+" ruleid=" 1879
+2" ruletype="W"/><field fieldname=" 1890
+ured 1928
+" ruleid=" 1944
+3" ruletype="W"/><field fieldname=" 1955
+ured 1993
+d Ma 1996
+le  2000
+" ruleid=" 2007
+4" ruletype="W"/><field fieldname=" 2018
+ured 2056
+le  2065
+" ruleid=" 2072
+5" ruletype="W"/><field fieldname=" 2083
+ured 2121
+mpl 2127
+er  2132
+" ruleid=" 2137
+6" ruletype="W"/><field fieldname=" 2148
+ured 2186
+d P 2189
+Plan Name M 2191
+" ruleid=" 2203
+7" ruletype="W"/><field fieldname="Other  2214
+ In 2254
+ance  2260
+ Yes  2264
+" ruleid=" 2271
+8" ruletype="W"/><field fieldname="Other  2282
+ In 2322
+ance No  2328
+" ruleid=" 2338
+9" ruletype="W"/><field fieldname="Re 2349
+ase 2388
+e Of  2390
+ In 2394
+atu 2404
+ure 2406
+e" ruleid="50 2408
+0" ruletype="W"/><field fieldname="Re 2420
+ase 2459
+e Of  2461
+ In 2465
+ Date" ruleid="51 2470
+1" ruletype="W"/><field fieldname="A 2486
+ment  2527
+ Of B 2531
+atu 2548
+ure 2550
+e" ruleid="5 2552
+2" ruletype="W"/><field fieldname="Date Of  2564
+rre 2609
+ent  2611
+" ruleid="5 2617
+53" ruletype="W"/><field fieldname="Date Of  2627
+rre 2673
+ent  2675
+D" ruleid="5 2680
+4" ruletype="W"/><field fieldname="Date Of  2692
+rre 2737
+ent  2739
+" ruleid="5 2747
+5" ruletype="W"/><field fieldname="Referring  2758
+r Performing P 2804
+Provider  2817
+ Name" ruleid="5 2825
+56" ruletype="W"/><field fieldname="Re 2840
+ired 2880
+d P 2883
+Procedure D 2885
+escription" ruleid="5 2896
+8" ruletype="W"/><field fieldname="Pr 2917
+rec 2953
+ert 2956
+ Mamm 2959
+" ruleid="6 2976
+3" ruletype="W"/><field fieldname="Procedure 1  2987
+ (1)" ruleid="6 3037
+6" ruletype="W"/><field fieldname="Procedure 1  3052
+Procedure  3099
+ (1)" ruleid="68 3108
+8" ruletype="W"/><field fieldname="Procedure 1  3123
+ Mod 3169
+ (1)" ruleid="6 3174
+9" ruletype="W"/><field fieldname="Procedure 1  3189
+ Mod 3235
+ (1)" ruleid="7 3240
+70" ruletype="W"/><field fieldname="Procedure 1  3254
+ Mod 3301
+ (1)" ruleid="7 3306
+1" ruletype="W"/><field fieldname="Procedure 1  3321
+ Ma 3372
+ (1)" ruleid="7 3377
+2" ruletype="W"/><field fieldname="Procedure 1  3392
+ Ma 3443
+ (1)" ruleid="7 3448
+3" ruletype="W"/><field fieldname="Procedure 1  3463
+ Ma 3514
+ (1)" ruleid="7 3519
+4" ruletype="W"/><field fieldname="Procedure 1  3534
+ Ma 3585
+4 (1)" ruleid="7 3589
+75" ruletype="W"/><field fieldname="Procedure 1  3604
+ Charge D 3651
+ (1)" ruleid="7 3660
+6" ruletype="W"/><field fieldname="Procedure 1  3675
+ Charge C 3721
+ (1)" ruleid="77" ruletype="W"/><field fieldname="Procedure 1  3730
+s (1)" ruleid="78 3796
+8" ruletype="W"/><field fieldname="Procedure 1 E 3812
+ (1)" ruleid="7 3864
+79" ruletype="W"/><field fieldname="Procedure 2  3878
+ (2)" ruleid="8 3929
+85" ruletype="W"/><field fieldname="Procedure 2  3943
+Procedure  3991
+ (2)" ruleid="8 4000
+87" ruletype="W"/><field fieldname="Procedure 2  4014
+ Mod 4061
+ (2)" ruleid="8 4066
+88" ruletype="W"/><field fieldname="Procedure 2  4080
+ Mod 4127
+ (2)" ruleid="89" ruletype="W"/><field fieldname="Procedure 2  4132
+ Mod 4193
+ (2)" ruleid="90 4198
+0" ruletype="W"/><field fieldname="Procedure 2  4213
+ Ma 4264
+ (2)" ruleid="9 4269
+91" ruletype="W"/><field fieldname="Procedure 2  4283
+ Ma 4335
+ (2)" ruleid="9 4340
+92" ruletype="W"/><field fieldname="Procedure 2  4354
+ Ma 4406
+ (2)" ruleid="9 4411
+93" ruletype="W"/><field fieldname="Procedure 2  4425
+ Ma 4477
+4 (2)" ruleid="9 4481
+94" ruletype="W"/><field fieldname="Procedure 2  4496
+ Charge D 4543
+ (2)" ruleid="9 4552
+95" ruletype="W"/><field fieldname="Procedure 2  4566
+ Charge C 4613
+ (2)" ruleid="9 4622
+96" ruletype="W"/><field fieldname="Procedure 2  4636
+s (2)" ruleid="9 4688
+97" ruletype="W"/><field fieldname="Procedure 2 E 4703
+ (2)" ruleid="9 4756
+98" ruletype="W"/><field fieldname="Procedure 3  4770
+ (3)" ruleid="10 4821
+04" ruletype="W"/><field fieldname="Procedure 3  4836
+Procedure  4884
+ (3)" ruleid="10 4893
+06" ruletype="W"/><field fieldname="Procedure 3  4908
+ Mod 4955
+ (3)" ruleid="10 4960
+07" ruletype="W"/><field fieldname="Procedure 3  4975
+ Mod 5022
+ (3)" ruleid="10 5027
+08" ruletype="W"/><field fieldname="Procedure 3  5042
+ Mod 5089
+ (3)" ruleid="10 5094
+09" ruletype="W"/><field fieldname="Procedure 3  5109
+ Ma 5161
+ (3)" ruleid="11 5166
+0" ruletype="W"/><field fieldname="Procedure 3  5182
+ Ma 5233
+ (3)" ruleid="11 5238
+1" ruletype="W"/><field fieldname="Procedure 3  5254
+ Ma 5305
+ (3)" ruleid="11 5310
+2" ruletype="W"/><field fieldname="Procedure 3  5326
+ Ma 5377
+4 (3)" ruleid="11 5381
+3" ruletype="W"/><field fieldname="Procedure 3  5398
+ Charge D 5444
+ (3)" ruleid="11 5453
+4" ruletype="W"/><field fieldname="Procedure 3  5469
+ Charge C 5515
+ (3)" ruleid="11 5524
+5" ruletype="W"/><field fieldname="Procedure 3  5540
+s (3)" ruleid="11 5591
+6" ruletype="W"/><field fieldname="Procedure 3 E 5608
+ (3)" ruleid="11 5660
+7" ruletype="W"/><field fieldname="Procedure 4  5676
+ (4)" ruleid="1 5726
+3" ruletype="W"/><field fieldname="Procedure 4  5742
+Procedure  5789
+ (4)" ruleid="1 5798
+5" ruletype="W"/><field fieldname="Procedure 4 Mod 5814
+ (4)" ruleid="1 5865
+6" ruletype="W"/><field fieldname="Procedure 4 Mod 5881
+ (4)" ruleid="1 5932
+7" ruletype="W"/><field fieldname="Procedure 4 Mod 5948
+ (4)" ruleid="1 5999
+8" ruletype="W"/><field fieldname="Procedure 4  6015
+ Ma 6066
+ (4)" ruleid="1 6071
+29" ruletype="W"/><field fieldname="Procedure 4  6086
+ Ma 6138
+ (4)" ruleid="13 6143
+30" ruletype="W"/><field fieldname="Procedure 4  6158
+ Ma 6210
+ (4)" ruleid="13 6215
+31" ruletype="W"/><field fieldname="Procedure 4  6230
+ Ma 6282
+4 (4)" ruleid="13 6286
+32" ruletype="W"/><field fieldname="Procedure 4  6302
+ Charge D 6349
+ (4)" ruleid="13 6358
+33" ruletype="W"/><field fieldname="Procedure 4  6373
+ Charge C 6420
+ (4)" ruleid="13 6429
+34" ruletype="W"/><field fieldname="Procedure 4  6444
+s (4)" ruleid="13 6496
+5" ruletype="W"/><field fieldname="Procedure 4 E 6513
+ (4)" ruleid="13 6565
+6" ruletype="W"/><field fieldname="Procedure 5  6581
+ (5)" ruleid="1 6631
+2" ruletype="W"/><field fieldname="Procedure 5  6647
+Procedure  6694
+ (5)" ruleid="1 6703
+4" ruletype="W"/><field fieldname="Procedure 5  6719
+ Mod 6765
+ (5)" ruleid="1 6770
+5" ruletype="W"/><field fieldname="Procedure 5  6786
+ Mod 6832
+ (5)" ruleid="1 6837
+6" ruletype="W"/><field fieldname="Procedure 5  6853
+ Mod 6899
+ (5)" ruleid="1 6904
+7" ruletype="W"/><field fieldname="Procedure 5  6920
+ Ma 6971
+ (5)" ruleid="1 6976
+8" ruletype="W"/><field fieldname="Procedure 5  6992
+ Ma 7043
+ (5)" ruleid="1 7048
+9" ruletype="W"/><field fieldname="Procedure 5  7064
+ Ma 7115
+ (5)" ruleid="150 7120
+0" ruletype="W"/><field fieldname="Procedure 5  7136
+ Ma 7187
+4 (5)" ruleid="15 7191
+1" ruletype="W"/><field fieldname="Procedure 5  7208
+ Charge D 7254
+ (5)" ruleid="15 7263
+2" ruletype="W"/><field fieldname="Procedure 5  7279
+ Charge C 7325
+ (5)" ruleid="15 7334
+53" ruletype="W"/><field fieldname="Procedure 5  7349
+s (5)" ruleid="15 7401
+4" ruletype="W"/><field fieldname="Procedure 5 E 7418
+ (5)" ruleid="15 7470
+5" ruletype="W"/><field fieldname="Procedure 6  7486
+ (6)" ruleid="1 7536
+1" ruletype="W"/><field fieldname="Procedure 6  7552
+Procedure  7599
+ (6)" ruleid="1 7608
+3" ruletype="W"/><field fieldname="Procedure 6 Mod 7624
+ (6)" ruleid="1 7675
+4" ruletype="W"/><field fieldname="Procedure 6 Mod 7691
+ (6)" ruleid="1 7742
+5" ruletype="W"/><field fieldname="Procedure 6 Mod 7758
+ (6)" ruleid="1 7809
+6" ruletype="W"/><field fieldname="Procedure 6  7825
+ Ma 7876
+ (6)" ruleid="1 7881
+7" ruletype="W"/><field fieldname="Procedure 6  7897
+ Ma 7948
+ (6)" ruleid="1 7953
+8" ruletype="W"/><field fieldname="Procedure 6  7969
+ Ma 8020
+ (6)" ruleid="1 8025
+9" ruletype="W"/><field fieldname="Procedure 6  8041
+ Ma 8092
+4 (6)" ruleid="17 8096
+70" ruletype="W"/><field fieldname="Procedure 6  8112
+ Charge D 8159
+ (6)" ruleid="17 8168
+1" ruletype="W"/><field fieldname="Procedure 6  8184
+ Charge C 8230
+ (6)" ruleid="17 8239
+2" ruletype="W"/><field fieldname="Procedure 6  8255
+s (6)" ruleid="17 8306
+3" ruletype="W"/><field fieldname="Procedure 6 E 8323
+ (6)" ruleid="17 8375
+4" ruletype="W"/><field fieldname="Tax ID  8391
+" ruleid="17 8438
+79" ruletype="W"/><field fieldname="Tax ID  8449
+" ruleid="1 8497
+80" ruletype="W"/><field fieldname="Ac 8508
+ment  8558
+" ruleid="1 8564
+81" ruletype="W"/><field fieldname="Ac 8575
+ment N 8625
+N" ruleid="1 8630
+82" ruletype="W"/><field fieldname="C 8642
+re  8680
+Provider  8683
+atu 8696
+ure 8698
+e" ruleid="1 8700
+87" ruletype="W"/><field fieldname="Rendering Facility Name" ruleid="1 8712
+88" ruletype="W"/><field fieldname="Rendering Facility Address 1 8782
+1" ruleid="1 8845
+89" ruletype="W"/><field fieldname=" 8857
+es  8896
+ Per Page 6 8898
+6" ruleid="19 8908
+95" ruletype="P"/><field fieldname="Page Split  8920
+re C 8968
+ert" ruleid="19 8972
+98" ruletype="P"/><field fieldname="Page Split C 8986
+" ruleid="19 9037
+99" ruletype="P"/><field fieldname="Page Split  9048
+Procedure D 9095
+escription" ruleid="2 9106
+00" ruletype="P"/><field fieldname="Page Split  9127
+ Mamm 9173
+y" ruleid="2 9184
+01" ruletype="P"/><field fieldname="Page Split I 9196
+4" ruleid="2 9248
+02" ruletype="P"/><field fieldname="Patient: Phone 9260
+e"/><field fieldname="Claim 9309
+Claim  9338
+ ID"/><field fieldname="Procedure 1  9343
+ Mod4 (1)" ruleid="35 9378
+4" ruletype="W"/><field fieldname="Procedure 2  9399
+ Mod4 (2)" ruleid="35 9445
+5" ruletype="W"/><field fieldname="Procedure 3  9466
+ Mod4 (3)" ruleid="35 9512
+56" ruletype="W"/><field fieldname="Procedure 4 Mod4 (4)" ruleid="35 9532
+7" ruletype="W"/><field fieldname="Procedure 5  9600
+ Mod4 (5)" ruleid="35 9646
+8" ruletype="W"/><field fieldname="Procedure 6 Mod4 (6)" ruleid="359" ruletype="W"/><field fieldname="Other Policy Number with COBA and Medigap Rule" ruleid="518" ruletype="W"/><field fieldname="Plan Name with COBA and Medigap Rule" ruleid="519" ruletype="W"/><field fieldname="Claim Paging" ruleid="677" ruletype="W"/><field fieldname="ClaimID and PatientID" ruleid="320" ruletype="S"/><field fieldname="Referring Performing Split" ruleid="684" ruletype="P"/><field fieldname="Referring Performing ID New" ruleid="685" ruletype="W"/><field fieldname="Procedure 1 24k Always (1)" ruleid="784" ruletype="W"/><field fieldname="Procedure 2 24k Always (2)" ruleid="785" ruletype="W"/><field fieldname="Procedure 3 24k Always (3)" ruleid="786" ruletype="W"/><field fieldname="Procedure 4 24k Always (4)" ruleid="787" ruletype="W"/><field fieldname="Procedure 5 24k Always (5)" ruleid="788" ruletype="W"/><field fieldname="Procedure 6 24k Always (6)" ruleid="789" ruletype="W"/><field fieldname="Procedure 1 EMG (1)" ruleid="80" ruletype="W"/><field fieldname="Procedure 2 EMG (2)" ruleid="99" ruletype="W"/><field fieldname="Procedure 3 EMG (3)" ruleid="118" ruletype="W"/><field fieldname="Procedure 4 EMG (4)" ruleid="137" ruletype="W"/><field fieldname="Procedure 5 EMG (5)" ruleid="156" ruletype="W"/><field fieldname="Procedure 6 EMG (6)" ruleid="175" ruletype="W"/><field fieldname="Procedure 1 Individual NPI (1)" ruleid="892" ruletype="W"/><field fieldname="Procedure 2 Individual NPI (2)" ruleid="893" ruletype="W"/><field fieldname="Procedure 3 Individual NPI (3)" ruleid="894" ruletype="W"/><field fieldname="Procedure 4 Individual NPI (4)" ruleid="895" ruletype="W"/><field fieldname="Procedure 5 Individual NPI (5)" ruleid="896" ruletype="W"/><field fieldname="Procedure 6 Individual NPI (6)" ruleid="897" ruletype="W"/><field fieldname="Procedure 1 ID Qualifier (1)" ruleid="898" ruletype="W"/><field fieldname="Procedure 2 ID Qualifier (2)" ruleid="899" ruletype="W"/><field fieldname="Procedure 3 ID Qualifier (3)" ruleid="900" ruletype="W"/><field fieldname="Procedure 4 ID Qualifier (4)" ruleid="901" ruletype="W"/><field fieldname="Procedure 5 ID Qualifier (5)" ruleid="902" ruletype="W"/><field fieldname="Procedure 6 ID Qualifier (6)" ruleid="903" ruletype="W"/><field fieldname="Referring Performing ID Type" ruleid="904" ruletype="W"/><field fieldname="Referring Performing NPI" ruleid="905" ruletype="W"/><field fieldname="Page Total Charges D" ruleid="229" ruletype="C"/><field fieldname="Page Total Charges C" ruleid="230" ruletype="C"/><field fieldname="Page Total Balance D" ruleid="907" ruletype="C"/><field fieldname="Page Total Balance C" ruleid="908" ruletype="C"/><field fieldname="Page Level Outside Lab Yes X" ruleid="231" ruletype="W"/><field fieldname="Page Level Outside Lab No X" ruleid="232" ruletype="W"/><field fieldname="Page Lab Charges D" ruleid="233" ruletype="W"/><field fieldname="Page Lab Charges C" ruleid="234" ruletype="W"/><field fieldname="Rendering Facility Address 4 Mamm" ruleid="191" ruletype="W"/><field fieldname="Tax ID with Location" ruleid="683" ruletype="W"/><field fieldname="Billing Phone with Location" ruleid="682" ruletype="W"/><field fieldname="Billing Name with Location" ruleid="679" ruletype="W"/><field fieldname="Billing Address 1 with Location" ruleid="680" ruletype="W"/><field fieldname="Billing City State Zip with Location" ruleid="681" ruletype="W"/><field fieldname="Rendering Facility NPI" ruleid="909" ruletype="W"/><field fieldname="Page Split Charge Note" ruleid="770" ruletype="P"/><field fieldname="Billing GRP ID Type" ruleid="906" ruletype="W"/><field fieldname="Provider GRP OR PIN" ruleid="331" ruletype="W"/><field fieldname="Procedure 1  9667
+om  13395
+ (1)" ruleid="9 13404
+6" ruletype="W"/><field fieldname="Procedure 2  13420
+om  13469
+ (2)" ruleid="9 13478
+77" ruletype="W"/><field fieldname="Procedure 3  13493
+om  13543
+ (3)" ruleid="9 13552
+8" ruletype="W"/><field fieldname="Procedure 4  13568
+om  13617
+ (4)" ruleid="9 13626
+79" ruletype="W"/><field fieldname="Procedure 5  13641
+om  13691
+ (5)" ruleid="9 13700
+80" ruletype="W"/><field fieldname="Procedure 6  13715
+om  13765
+ (6)" ruleid="9 13774
+81" ruletype="W"/><field fieldname="Procedure 1  13789
+om  13839
+ (1)" ruleid="9 13848
+82" ruletype="W"/><field fieldname="Procedure 2  13863
+om  13913
+ (2)" ruleid="9 13922
+83" ruletype="W"/><field fieldname="Procedure 3  13937
+om  13987
+ (3)" ruleid="9 13996
+84" ruletype="W"/><field fieldname="Procedure 4  14011
+om  14061
+ (4)" ruleid="9 14070
+85" ruletype="W"/><field fieldname="Procedure 5  14085
+om  14135
+ (5)" ruleid="9 14144
+86" ruletype="W"/><field fieldname="Procedure 6  14159
+om  14209
+ (6)" ruleid="9 14218
+87" ruletype="W"/><field fieldname="Procedure 1  14233
+om  14283
+ (1)" ruleid="9 14292
+88" ruletype="W"/><field fieldname="Procedure 2  14307
+om  14357
+ (2)" ruleid="9 14366
+89" ruletype="W"/><field fieldname="Procedure 3  14381
+om  14431
+ (3)" ruleid="99 14440
+0" ruletype="W"/><field fieldname="Procedure 4  14456
+om  14505
+ (4)" ruleid="99 14514
+91" ruletype="W"/><field fieldname="Procedure 5  14529
+om  14579
+ (5)" ruleid="99 14588
+92" ruletype="W"/><field fieldname="Procedure 6  14603
+om  14653
+ (6)" ruleid="99 14662
+93" ruletype="W"/><field fieldname="Procedure 1  14677
+ To 14724
+ (1)" ruleid="99 14734
+94" ruletype="W"/><field fieldname="Procedure 2  14749
+ To 14796
+ (2)" ruleid="99 14806
+95" ruletype="W"/><field fieldname="Procedure 3  14821
+ To 14868
+ (3)" ruleid="99 14878
+96" ruletype="W"/><field fieldname="Procedure 4  14893
+ To 14940
+ (4)" ruleid="99 14950
+97" ruletype="W"/><field fieldname="Procedure 5  14965
+ To 15012
+ (5)" ruleid="99 15022
+98" ruletype="W"/><field fieldname="Procedure 6  15037
+ To 15084
+ (6)" ruleid="99 15094
+99" ruletype="W"/><field fieldname="Procedure 1  15109
+ To 15156
+ (1)" ruleid="1000" ruletype="W"/><field fieldname="Pr 15166
